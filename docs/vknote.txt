@@ -21,13 +21,13 @@ Fights
 - Evorn, Dorer, Escaval, (Eron?) vs 2SL (We can join this fight)
 - full team vs 4 Rakamisu (w/ Leida & Vled as auto-supports?)
 
-
-
-
-todo
-- show names with the faces in the message boxes
-- write a walkthrough
-- Come up with a different name for "Eron"
-- Replace Kendel and Leida with Eron and Evorn in the BS
-- When the new designs are under discussion, the elites shouldn't look dead, as they'll survive the fight itself
-- get rid of all the unnecessary assets, then all the bits inside the assets that I don't need. (That way it'll be easier for a graphic designer to redo only what's necessary)
+Hasznalt ChipSet
+- TESZT
+- black
+- Erdo
+- Erdo5
+- satorbelso
+- sotet erdo
+- dreamland
+- dungeon
+- 3.nap
