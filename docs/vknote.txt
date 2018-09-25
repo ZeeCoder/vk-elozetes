@@ -18,3 +18,23 @@ Fights
 - Dorer, Escaval vs SL
 - Evorn, Dorer, Escaval, (Eron?) vs 2SL (We can join this fight)
 - full team vs 4 Rakamisu (w/ Leida & Vled as auto-supports?)
+
+Acelvaros => Steel City
+Agor, Agorian
+
+
+Walkthrough notes
+- talk to Tren before going in the middle tent
+- go to the tent to the north
+
+
+
+todo
+- remove arc_5 (Kendel)
+- fix faces in the BS
+- Check if these faces are ever used: 8, 27, 32
+
+Graphic Designer notes
+- Match certain chars with face pictures for the message box 
+- 3 shield types: Agorian, Black and Grey elites
+- Black elites' fight char graphs shouldn't have blood, as they survive the fight
