@@ -1,3 +1,5 @@
+# Misc Notes
+
 Heroes
 
 - Dorer
@@ -36,11 +38,12 @@ todo
 - fix faces in the BS
 - Check if these faces are ever used: 8, 27, 32
 
-Graphic Designer notes
+## Graphic Designer notes
 
 - Match certain chars with face pictures for the message box
 - 3 shield types: Agorian, Black and Grey elites
 - Black elites' fight char graphs shouldn't have blood, as they survive the fight
+- Dawnflower has to be blue: ObjectAll up middle 1
 
 ## Pictures used
 
