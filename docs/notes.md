@@ -35,7 +35,6 @@ Walkthrough notes
 todo
 
 - remove arc_5 (Kendel)
-- fix faces in the BS
 - Check if these faces are ever used: 8, 27, 32
 
 ## Graphic Designer notes
@@ -61,6 +60,8 @@ Kezdes
 - Grillenzirpen
 
 ## Music used
+
+- Sotet: Wounded One killed by Braun
 
 ## Chars used
 
