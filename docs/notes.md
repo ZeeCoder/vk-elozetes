@@ -58,6 +58,7 @@ Kezdes
 - gebruell3
   Tisztas
 - Grillenzirpen
+- swipe: chair in the handyman's
 
 ## Music used
 
@@ -156,3 +157,8 @@ ObjectAll
 ## Questionable
 
 - Evorn2 down (left/middle/right) 2 - Maybe used in the bs?
+
+## to fix
+
+- chair should work if you save in the handyman's place
+- "well luckily" eron should be 1 height
