@@ -14,3 +14,5 @@ Graphic notes:
 - The tent tileset have three floor type. Two fully or partially grass, and one barren. These should match up with the floor types of "Forest" and "Mountain"
     - Also use the animations char (butterflies)
     - Also use tiere2 butterfly on the dark forest chipset
+    - Create a dungeon with 2 type of light source to show the higher / lower light difference
+- zlightup2 - The two only differs in their focus point. (Essentially the second is the same as the first one, just lifted a little)
