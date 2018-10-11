@@ -6,6 +6,7 @@ todo:
 - Note how characters can pass through each tile for each tileset for the graphic designer
 - Make a custom game with the maps for the designer, with save files on each map. This way he can just swap things out to see how it works in game
 - Remove Kendel_ut Leida_ut while replacing the chars in the BS 
+- Check if the dusk1 and dusk2 panoramas are used at all
 
 Graphic notes:
 - the left black tile for the "Tent" chip set has to be 000 pure black, as I'm using that for scenes where I want to hide everything. The other one to the right of it is the one that's actually used for tents.
