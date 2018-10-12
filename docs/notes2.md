@@ -5,3 +5,4 @@ Graphic notes:
   - Also use the animations char (butterflies)
   - Also use tiere2 butterfly on the dark forest chipset
 - zlightup2 - The two only differs in their focus point. (Essentially the second is the same as the first one, just lifted a little)
+- Objekt9 has Leon Anvar's sword, so it has to match with an elite soldier's look
