@@ -6,3 +6,11 @@ Graphic notes:
   - Also use tiere2 butterfly on the dark forest chipset
 - zlightup2 - The two only differs in their focus point. (Essentially the second is the same as the first one, just lifted a little)
 - Objekt9 has Leon Anvar's sword, so it has to match with an elite soldier's look
+
+issues:
+
+- before "next up is blad leader" it seemed like text was skipped
+- the gland to the west might have dawnflowers on it
+- after end of intro, it takes too long to show the next day
+
+- takes too long to be transported to the way to the training grounds
