@@ -13,20 +13,10 @@ issues:
 - the gland to the west might have dawnflowers on it
 - after end of intro, it takes too long to show the next day
 
-- seems like the minigame is still running too fast for some reason
-- Barun starts shouting way too soon
-- Braun should leave after Dorer faster, and take a couple steps backwards, not just one
-- minigame is jerky
-- minigame end: a lot of wait for some reason
-- need to restore the graphics where Dorer trips
-- after "it really doesn't matter!" ... should have dorer's face
-- when they let space for Dorer, he's way too fast and pushes against evorn
-- "after heh a predictable outcome" zigo briefly turns red
-- Dorer is extremely fast when meeting the elites
-- Elite (Lent) should be bottom
-- Elit(Fent)
-- Tobbszor is => not translated
+- towards dreamland: unnecessary black elite graphs, they could be just looking left
+- "..." => fight takes a while to start and people to organise
 - Dorer: I can barely hodl my sword: he's not holding it though
 - Elite should charge with his sword before him, not behind
-- When white dorer enters him, he changes to red briefly
 - two elites are thrown away way too fast and way too far
+
+dreamland
