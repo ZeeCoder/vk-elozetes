@@ -9,20 +9,10 @@ Graphic notes:
 
 issues
 
-- When talking to Tren: "Ja..." has Dorer's face
-- Tren talk: "Pfff... Majd akkor szolj" has Dorer's face
-- WHen we visit the gland again at dawn "Hmm... semmi, nincs semmi" => wrong height
-- At the end of the intro a music briefly plays before we're transported to day 2
+- At the end of the intro a music (used in the tents) briefly plays before we're transported to day 2
 - No music at all while we're walking to the training grounds
 - NO music at all during the wolf fight areas
-- the hidden glend left from the wolves should have 25 setalium, so that we can buy an extra potion and coctail
-- When we read the stone names at the hidden glend at the wolves on the right hand side, escaval steps too far from us
-- running minigame should decrease the circles by 1 only, not 10
-- you can get stuck with the barrel at dreamland. make sure movement is done in a way that's not mandatory, so that the engine doesn't get stuck
-- Dreamworld own selves room: when they shout Dorer's name and he says: "Mintha escaval hangja lett volna" his face is not shown on the message box
 - Think of replacing the explosion effect that whitedorer does with something else
-- "Dorer nekunk szuksegunk van... kettonk sorsa" => wrong height
-- the wines should be climbed automatically on touch instead of hitting enter
 
 walkthrough
 
