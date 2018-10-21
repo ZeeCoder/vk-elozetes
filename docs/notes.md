@@ -58,7 +58,7 @@ Setal Coctail: +50MP
 - Dorer vs Zigo
 - Dorer vs 1 Elite
 - Dorer, Escaval vs SL
-- Dulah + Dorer vs Wounded One (In the tent)
+- Dulah + Eron + Dorer vs 2 Wounded One (Just after leaving the tent)
 - full team vs 4 Rakamisu
 
 Acelvaros => Steel City
