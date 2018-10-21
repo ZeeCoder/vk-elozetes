@@ -15,14 +15,51 @@ Enemies
 - SL
 - Rakamisu
 
-Fights
+# Fights
 
-- Dorer vs 1-2 Wolves
+## Wolf
+
+HP: 50
+Def: 0
+Attack: 25
+Speed: 8 + (0-5)
+
+## Dorer lvl1
+
+HP: 100
+MP: 50
+Def: 10
+Attack: 10
+Speed: 10 + (0-5)
+
+## Dorer Skill
+
+cost: 10
+attack: 20
+
+## Escaval lvl1
+
+HP: 120
+MP: 30
+Def: 12
+Attack: 12
+Speed: 10 + (0-5)
+
+## Escaval Skill
+
+cost: 10
+attack: 25
+
+Dawnflower Potion: +100HP
+Setal Coctail: +50MP
+
+- Dorer + Escaval vs 3x1 Wolves (lvl up)
+- Dorer + Escaval vs 2x2 Wolves (lvl up)
 - Dorer vs Zigo
-- (Tren, Zigo) + full team vs 3 elite
+- Dorer vs 1 Elite
 - Dorer, Escaval vs SL
-- Evorn, Dorer, Escaval, (Eron?) vs 2SL (We can join this fight)
-- full team vs 4 Rakamisu (w/ Leida & Vled as auto-supports?)
+- Dulah + Dorer vs Wounded One (In the tent)
+- full team vs 4 Rakamisu
 
 Acelvaros => Steel City
 Agor, Agorian
